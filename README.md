@@ -1,1 +1,3 @@
 # InfoSecBot
+
+According to a recent survey most users are using google accounts or using the same passwords for registering on different platforms and applications. This creates a problem for the user if his password is known to a hacker. This hacker would then be able to use all of the user’s accounts or the applications that he has signed up. This would create a problem of data breaching. Our solution for this is creating a Chabot which could generate and store very strong passwords and show it to only when the user needs it. Also this Chabot contains some security constrains for retaining those passwords that have been generated.  
